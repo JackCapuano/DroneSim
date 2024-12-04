@@ -1,4 +1,4 @@
-DroneSim Research by Jack Capuano, Austen Pallen
+DroneSim Research by Jack Capuano, Austen Pallen, Grace Gratton
 Last Updated: 3/26/2024
 
 _format.xlsx's are provided for explanation of the main matrices:
